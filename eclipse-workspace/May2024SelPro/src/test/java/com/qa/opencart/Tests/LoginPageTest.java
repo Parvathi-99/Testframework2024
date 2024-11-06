@@ -30,7 +30,7 @@ public class LoginPageTest extends BaseTest{
 	{
 		boolean forgotpwdlink=loginpage.isforgotpasswordlinkexist();
 		Assert.assertTrue(forgotpwdlink);
-		
+		//testing data
 	}
 	@Test
 
